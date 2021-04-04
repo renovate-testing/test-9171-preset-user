@@ -1,0 +1,3 @@
+{
+  "extends": ["github>renovate-testing/test-9171-preset-source"]
+}
